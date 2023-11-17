@@ -1,0 +1,8 @@
+resolver: lts-21.20
+
+packages:
+- .
+
+flags:
+  stupid-logging:
+    json: true
