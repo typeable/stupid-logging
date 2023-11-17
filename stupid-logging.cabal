@@ -24,6 +24,7 @@ library
     exposed-modules:  System.Logging
     other-modules:    System.Logging.Plain
                       System.Logging.Types
+                      System.Logging.Utils
     default-extensions: OverloadedRecordDot
     build-depends:    base >=4.16 && < 5.0
                  ,    text
